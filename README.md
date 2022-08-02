@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Otieno 
 - 👀 I’m interested in C# and Java 
 - 🌱 I’m currently learning C# and Java
-- 💞️ I’m looking to collaborate on Java 
+- 💞️ I’m looking to collaborate in C#
 - 📫 How to reach 
 
 <!---
