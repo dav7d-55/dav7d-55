@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Otieno 
-- 👀 I’m interested in C# and Java 
-- 🌱 I’m currently learning C# and Java
-- 💞️ I’m looking to collaborate in C#
+- 👀 I’m interested in Cisco Networks and Cisco Network Security
+- 🌱 I’m currently a Junior Network Support Engineer. 
+- 💞️ I’m looking to collaborate in Cybersecurity
 - 📫 How to reach 
 
 <!---
