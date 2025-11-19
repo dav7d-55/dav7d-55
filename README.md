@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Otieno 
+- 👋 Hi, I’m David Okinyi Otieno, CCNA 
 - 👀 I’m interested in Cisco Networks and Cisco Network Security
 - 🌱 I’m currently a Junior Network Support Engineer. 
 - 💞️ I’m looking to collaborate in Cybersecurity
